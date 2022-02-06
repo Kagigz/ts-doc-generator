@@ -108,7 +108,7 @@ This definition:
 
   // steps to execute
   steps: Step[]
-  // locale (optional, default = 'en')
+  // locale (optional, default = 'fr')
   locale: 'en' | 'fr'
 ```
 
