@@ -44,7 +44,7 @@ Will generate a file `models/person-doc.md` and if attributes have custom types,
 ## How it works
 
 The script looks at the defined attributes in an interface or class and generates the definitions based on an attribute's name and type.  
-If a comment is above the attribute's definition, a description and paramaters are added (see _Customize ouput_ below for more information).
+If a comment is above the attribute's definition, a description and parameters are added (see _Customize output_ below for more information).
 
 ## Customize output
 
